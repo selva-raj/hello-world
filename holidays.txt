@@ -1,0 +1,100 @@
+2020-01-01
+Wednesday
+New Years Day
+Chennai
+2020-01-14
+Tuesday
+Lohri (Optional Holiday)
+Chennai
+2020-01-15
+Wednesday
+Makara Sankranti
+Chennai
+2020-01-16
+Thursday
+Thiruvalluvar Day (Optional Holiday)
+Chennai
+2020-01-17
+Friday
+Uzhavar Thirunal (Optional Holiday)
+Chennai
+2020-02-21
+Friday
+Maha Shivaratri (Optional Holiday)
+Chennai
+2020-03-09
+Monday
+Holika Dahana (Optional Holiday)
+Chennai
+2020-03-25
+Wednesday
+Ugadi (Optional Holiday)
+Chennai
+2020-04-02
+Thursday
+Rama Navami (Optional Holiday)
+Chennai
+2020-04-06
+Monday
+Mahaveera Jayanti (Optional Holiday)
+Chennai
+2020-04-10
+Friday
+Good Friday
+Chennai
+2020-04-14
+Tuesday
+Dr. B.R. Ambedkar Jayanthi (Optional Holiday)
+Chennai
+2020-05-01
+Friday
+May Day
+Chennai
+2020-05-07
+Thursday
+Buddha Purnima (Optional Holiday)
+Chennai
+2020-05-25
+Monday
+Eid-ul-Fitr (RAMZAN)
+Chennai
+2020-07-31
+Friday
+Bakrid/Eid ul-Adha (Optional Holiday)
+Chennai
+2020-08-12
+Wednesday
+Krishna Janmashtami (Optional Holiday)
+Chennai
+2020-08-31
+Monday
+Onam (Optional Holiday)
+Chennai
+2020-09-17
+Thursday
+Mahalaya Amavasya (Optional Holiday)
+Chennai
+2020-10-02
+Friday
+Gandhi Jayanthi
+Chennai
+2020-10-26
+Monday
+Vijaya Dashami
+Chennai
+2020-10-30
+Friday
+Ed-Milad (Optional Holiday)
+Chennai
+2020-11-16
+Monday
+Diwali/Bhai Dooj
+Chennai
+2020-11-30
+Monday
+Guru Nanak Jayanti (Optional Holiday)
+Chennai
+2020-12-25
+Friday
+Christmas Day
+Chennai
